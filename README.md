@@ -1,4 +1,4 @@
-# 🐍 30 Days of Python Challenge - [Your Name]
+# 🐍 30 Days of Python Challenge - [Ankush Dhoj Karki]
 
 This repository tracks my personal progress through the **30 Days of Python** programming challenge.
 
