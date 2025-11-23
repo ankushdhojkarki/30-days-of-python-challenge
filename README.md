@@ -5,7 +5,6 @@ This repository tracks my personal progress through the **30 Days of Python** pr
 I am following the excellent open-source curriculum by Asabeneh Yetayeh:
 [https://github.com/Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
 
-I am also doing this challenge with my friend **Sanyam Shakya** for accountability!
 
 ---
 
