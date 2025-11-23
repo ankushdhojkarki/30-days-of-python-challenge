@@ -24,7 +24,7 @@ I am following the excellent open-source curriculum by Asabeneh Yetayeh:
 ## 🔑 Key Takeaways
 
 * **Goal:** Learn Python fundamentals by practicing daily.
-* **Timeframe:** [Start Date] - [End Date]
+* **Timeframe:** [21/11/2025] - [20/12/2025]
 * **Current Streak:** 2 Days
 
 ---
