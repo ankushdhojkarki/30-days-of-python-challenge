@@ -13,13 +13,13 @@ I am also doing this challenge with my friend **Sanyam Shakya** for accountabili
 
 | Day | Topic Covered | Status | Link to Code |
 | :---: | :--- | :---: | :---: |
-| **01** | Introduction, Installation, Checking Python Version, First Program | **✅ Done** | [Day 1 Code](./Day_01/day_1_exercises.py) |
-| 02 | Variables, Built-in Functions, `type()` | ⏳ Pending | - |
+| **01** | Introduction, Installation, Checking Python Version, First Program | **✅ Done** | [Day 1 Code] (https://github.com/ankushdhojkarki/30-days-of-python-challenge/tree/main/Day%201)) |
+| 02 | Variables, Built-in Functions, `type()` | **✅ Done** | [Day 2 Code] (https://github.com/ankushdhojkarki/30-days-of-python-challenge/tree/main/Day%202) |
 | 03 | Operators, Dates and Times | ⏳ Pending | - |
 | 04 | Strings and methods | ⏳ Pending | - |
 | ... | ... | ⏳ Pending | - |
 | **30** | REST API | ⏳ Pending | - |
-
+ 
 ---
 
 ## 🔑 Key Takeaways
