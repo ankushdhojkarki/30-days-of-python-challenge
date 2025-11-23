@@ -13,8 +13,8 @@ I am also doing this challenge with my friend **Sanyam Shakya** for accountabili
 
 | Day | Topic Covered | Status | Link to Code |
 | :---: | :--- | :---: | :---: |
-| **01** | Introduction, Installation, Checking Python Version, First Program | **✅ Done** | [Day 1 Code] (https://github.com/ankushdhojkarki/30-days-of-python-challenge/tree/main/Day%201)) |
-| 02 | Variables, Built-in Functions, `type()` | **✅ Done** | [Day 2 Code] (https://github.com/ankushdhojkarki/30-days-of-python-challenge/tree/main/Day%202) |
+| **01** | Introduction, Installation, Checking Python Version, First Program | **✅ Done** | [Day 1 Code](https://github.com/ankushdhojkarki/30-days-of-python-challenge/tree/main/Day%201) |
+| 02 | Variables, Built-in Functions, `type()` | **✅ Done** | [Day 2 Code](https://github.com/ankushdhojkarki/30-days-of-python-challenge/tree/main/Day%202) |
 | 03 | Operators, Dates and Times | ⏳ Pending | - |
 | 04 | Strings and methods | ⏳ Pending | - |
 | ... | ... | ⏳ Pending | - |
@@ -26,4 +26,6 @@ I am also doing this challenge with my friend **Sanyam Shakya** for accountabili
 
 * **Goal:** Learn Python fundamentals by practicing daily.
 * **Timeframe:** [Start Date] - [End Date]
-* **Current Streak:** 1 Day
+* **Current Streak:** 2 Days
+
+---
