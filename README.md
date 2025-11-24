@@ -14,7 +14,7 @@ I am following the excellent open-source curriculum by Asabeneh Yetayeh:
 | :---: | :--- | :---: | :---: |
 | **01** | Introduction, Installation, Checking Python Version, First Program | **✅ Done** | [Day 1 Code](https://github.com/ankushdhojkarki/30-days-of-python-challenge/tree/main/Day%201) |
 | 02 | Variables, Built-in Functions, `type()` | **✅ Done** | [Day 2 Code](https://github.com/ankushdhojkarki/30-days-of-python-challenge/tree/main/Day%202) |
-| 03 | Operators, Dates and Times | ⏳ Pending | - |
+| 03 | Operators | **✅ Done** | [Day 3 Code](https://github.com/ankushdhojkarki/30-days-of-python-challenge/tree/main/Day%203) |
 | 04 | Strings and methods | ⏳ Pending | - |
 | ... | ... | ⏳ Pending | - |
 | **30** | REST API | ⏳ Pending | - |
@@ -25,6 +25,6 @@ I am following the excellent open-source curriculum by Asabeneh Yetayeh:
 
 * **Goal:** Learn Python fundamentals by practicing daily.
 * **Timeframe:** [21/11/2025] - [20/12/2025]
-* **Current Streak:** 2 Days
+* **Current Streak:** 3 Days
 
 ---
