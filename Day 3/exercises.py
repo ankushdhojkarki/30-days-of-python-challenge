@@ -27,7 +27,7 @@ print(f"The area of the rectangle is {round(length * width, 2)}")
 print(f"The perimeter of the rectangle is {round(2 * (length + width), 2)}")
 
 # 7. Get radius of a circle using prompt. Calculate the area (area = pi x r x r) and circumference (c = 2 x pi x r) where pi = 3.14.
-# radius = float(input("Enter the radius: "))
+radius = float(input("Enter the radius: "))
 
 print(f"The area of the circle is {round(math.pi*(radius**2),2)}")
 print(f"The circumference of the circle is {round(2*math.pi*radius, 2)}")
