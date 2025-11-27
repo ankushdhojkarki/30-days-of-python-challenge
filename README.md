@@ -19,6 +19,7 @@ I am following the excellent open-source curriculum by Asabeneh Yetayeh:
 | 05 | Lists | **✅ Done** | [Day 5 Code](https://github.com/ankushdhojkarki/30-days-of-python-challenge/tree/main/Day%205) |
 | 06 | Tuples | **✅ Done** | [Day 6 Code](https://github.com/ankushdhojkarki/30-days-of-python-challenge/tree/main/Day%206) |
 | 07 | Sets | **✅ Done** | [Day 7 Code](https://github.com/ankushdhojkarki/30-days-of-python-challenge/tree/main/Day%207) |
+| -- | --- | ⏳ Pending | [---](---) |
 | **30** | REST API | ⏳ Pending | - |
  
 ---
