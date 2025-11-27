@@ -17,6 +17,7 @@ I am following the excellent open-source curriculum by Asabeneh Yetayeh:
 | 03 | Operators | **✅ Done** | [Day 3 Code](https://github.com/ankushdhojkarki/30-days-of-python-challenge/tree/main/Day%203) |
 | 04 | Strings and methods | **✅ Done** | [Day 4 Code](https://github.com/ankushdhojkarki/30-days-of-python-challenge/tree/main/Day%204) |
 | 05 | Lists | **✅ Done** | [Day 5 Code](https://github.com/ankushdhojkarki/30-days-of-python-challenge/tree/main/Day%205) |
+| 06 | Tuples | **✅ Done** | [Day 6 Code](https://github.com/ankushdhojkarki/30-days-of-python-challenge/tree/main/Day%206) |
 | ... | ... | ⏳ Pending | - |
 | **30** | REST API | ⏳ Pending | - |
  
@@ -26,6 +27,6 @@ I am following the excellent open-source curriculum by Asabeneh Yetayeh:
 
 * **Goal:** Learn Python fundamentals by practicing daily.
 * **Timeframe:** [21/11/2025] - [20/12/2025]
-* **Current Streak:** 5 Days
+* **Current Streak:** 6 Days
 
 ---
