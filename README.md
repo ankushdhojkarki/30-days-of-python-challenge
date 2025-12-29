@@ -23,6 +23,7 @@ I am following the excellent open-source curriculum by Asabeneh Yetayeh:
 | 09 | Conditionals | **✅ Done** | [Day 9 Code](https://github.com/ankushdhojkarki/30-days-of-python-challenge/tree/main/Day%209) |
 | 10 | Loops | **✅ Done** | [Day 10 Code](https://github.com/ankushdhojkarki/30-days-of-python-challenge/tree/main/Day%2010) |
 | 11 | Functions | **✅ Done** | [Day 11 Code](https://github.com/ankushdhojkarki/30-days-of-python-challenge/tree/main/Day%2011) |
+| 12 | Modules | **✅ Done** | [Day 12 Code](https://github.com/ankushdhojkarki/30-days-of-python-challenge/tree/main/Day%2012) |
 | -- | ---------- | ⏳ Pending | - |
 | **30** | REST API | ⏳ Pending | - |
  
@@ -32,6 +33,6 @@ I am following the excellent open-source curriculum by Asabeneh Yetayeh:
 
 * **Goal:** Learn Python fundamentals by practicing daily.
 * **Timeframe:** [21/11/2025] - [20/12/2025]
-* **Current Streak:** 11 Days
+* **Current Streak:** 12 Days
 
 ---
