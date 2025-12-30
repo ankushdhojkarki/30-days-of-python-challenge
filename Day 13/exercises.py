@@ -45,3 +45,8 @@ print(new_list)
 names = [[('Asabeneh', 'Yetayeh')], [('David', 'Smith')], [('Donald', 'Trump')], [('Bill', 'Gates')]]
 full_names = [f"{first} {last}" for sublist in names for first, last in sublist]
 print(full_names)
+
+#7. Write a lambda function which can solve a slope or y-intercept of linear functions.
+
+find_slope = lambda x1, y1, x2, y2: (y2 - y1) / (x2 - x1)
+print(find_slope(1, 2, 3, 10))
