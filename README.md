@@ -24,6 +24,7 @@ I am following the excellent open-source curriculum by Asabeneh Yetayeh:
 | 10 | Loops | **✅ Done** | [Day 10 Code](https://github.com/ankushdhojkarki/30-days-of-python-challenge/tree/main/Day%2010) |
 | 11 | Functions | **✅ Done** | [Day 11 Code](https://github.com/ankushdhojkarki/30-days-of-python-challenge/tree/main/Day%2011) |
 | 12 | Modules | **✅ Done** | [Day 12 Code](https://github.com/ankushdhojkarki/30-days-of-python-challenge/tree/main/Day%2012) |
+| 13 | List Comprehension | **✅ Done** | [Day 13 Code](https://github.com/ankushdhojkarki/30-days-of-python-challenge/tree/main/Day%2013) |
 | -- | ---------- | ⏳ Pending | - |
 | **30** | REST API | ⏳ Pending | - |
  
@@ -33,6 +34,6 @@ I am following the excellent open-source curriculum by Asabeneh Yetayeh:
 
 * **Goal:** Learn Python fundamentals by practicing daily.
 * **Timeframe:** [21/11/2025] - [20/12/2025]
-* **Current Streak:** 12 Days
+* **Current Streak:** 13 Days
 
 ---
